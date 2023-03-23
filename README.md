@@ -3,11 +3,11 @@
 
 - ⚡ I'm currently a SENA ADSO apprentice
 
-- 📫 Contact me: cesarmontealegere@gmail.com
-
 - 🌱 I'm currently learning Stack MERN and my English to polish my skills.
 
 - 🤝 I'm the future founder of Team Ghoslink, a pioneer technology company in Colombia.
+
+- 📫 Contact me: cesarmontealegere@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmontealegre&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmontealegre" /> </p>
 
